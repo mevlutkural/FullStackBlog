@@ -34,7 +34,7 @@ services:
       - postgres_data:/var/lib/postgresql/data
     environment:
       - POSTGRES_USER=root
-      - POSTGRES_PASSWORD=R}|Pi+dIe#">->l`5h~jXXM527_
+      - POSTGRES_PASSWORD=uk9H91HEwGzbWn3Ci6Wul5Q
       - POSTGRES_DB=full_stack_blog
     ports:
       - "5432:5432"
